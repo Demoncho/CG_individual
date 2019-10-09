@@ -1,0 +1,10 @@
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.csprojAssemblyReference.cache
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.Form1.resources
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.Properties.Resources.resources
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.csproj.GenerateResource.cache
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.csproj.CoreCompileInputs.cache
+D:\Homework\CG_individ\CG_individ\bin\Debug\CG_individ.exe.config
+D:\Homework\CG_individ\CG_individ\bin\Debug\CG_individ.exe
+D:\Homework\CG_individ\CG_individ\bin\Debug\CG_individ.pdb
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.exe
+D:\Homework\CG_individ\CG_individ\obj\Debug\CG_individ.pdb
